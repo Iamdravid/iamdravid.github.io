@@ -1,0 +1,94 @@
+body{
+	background-color: #d0d0e1;
+	background: url("Images/code.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	margin-top: 12px;
+}
+
+h1{
+	text-align: center;
+	margin-top:5px;
+	font-size:50px;
+	border:7px dashed #b2b2a6;
+	outline-color:#f1f74a;
+	outline-style: double ;
+	text-shadow: 2px 1px;
+}
+
+#Welcome{
+	text-align: center;
+	margin-top:10px;
+	font-size:25px;
+	color: yellow;
+	font-family: "Courier New", Monaco, monospace;
+	
+}
+.link{
+	color:yellow;
+	font-weight:bold;
+}
+
+.nav-link{
+	color: Yellow;
+	font-weight:bold;
+	font-size:18px;
+	text-align:center;
+	
+}
+
+.Woo{
+	font-family: "Courier New", Monaco, monospace;
+}
+
+#header{
+	color:white; 
+	font-family:"Courier New", Monaco, monospace;
+	text-align: center;
+	
+}
+
+.footer{
+	position: absolute;
+	right:0;
+	bottom:0;
+	left:0;
+	padding: 0px;
+	background-color: #faff6d;
+	text-align:bottom;
+	margin-bottom:absolute;
+	
+}
+
+#about{
+	text-align: center;
+	margin-top:5px;
+	font-size:25px;
+	color:yellow;
+	font-family: "Courier New", Monaco, monospace;
+}
+
+p1{
+	text-align: center;
+	margin-top:5px;
+	font-size:25px;
+	color:black;
+	font-family: "Courier New", Monaco, monospace;
+	
+}
+
+.SM{
+	text-align: left-center;
+	margin-top:5px;
+	font-size:50px;
+	color:yellow;
+	font-family: "Courier New", Monaco, monospace;
+}
+
+.Rss{
+	text-align:center;
+	margin-top:5px;
+	font-size:25px;
+	color:yellow;
+	font-family: "Courier New", Monaco, monospace;
+}
